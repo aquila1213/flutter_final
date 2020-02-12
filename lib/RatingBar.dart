@@ -44,6 +44,7 @@ class RatingBarWidget extends State {
           rating = value;
         });
       },
+
       starCount: 5,
       rating: rating,
       size: 45.0,
